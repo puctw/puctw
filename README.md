@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Nuno
 
-🌱 - Currently learning Python 🐍
+🌱 Currently learning Python
